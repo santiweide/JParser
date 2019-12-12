@@ -5,3 +5,6 @@ print("Hello World")
 
 def foo(bar):
     return bar+bar
+
+def exp(p):
+    print(p)
