@@ -11,7 +11,7 @@ parser项目是一个Java书写的简易编译器前端。
 
 ==========
 
-absSynTree项目是一个Java书写的抽象语法树。实现方法参考了USTC话保健老师的网课~老师讲课好棒的ww
+absSynTree项目是一个Java书写的抽象语法树。实现方法参考了USTC的网课ww
 
 ==========
 
